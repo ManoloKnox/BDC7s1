@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Enciende un display
+enciende un display
 
 ## How to test
 
-Accionando un dipswitch
+accionando un dipswitch
 
 ## External hardware
 
-No se requiere hardware externo 
+no se requiere hardware externo 
